@@ -6,7 +6,7 @@ Word Ocurrences is a text analyzer that reads a file and outputs statistics abou
 
 ### Testing
 
-The tests performed use a library called [JEST](https://jestjs.io/). It was performed three tests that can be found [here](http://davimello.com).
+The tests performed use a library called [JEST](https://jestjs.io/). It was performed three tests that can be found [here](https://github.com/daviavmello/WordOcurrences/blob/main/Testing.js).
 
 ### Author
 This program was developed by Davi Mello for Software Engineering 1, Professor Jatin Shah.
